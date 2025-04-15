@@ -1,4 +1,5 @@
 # Mi App Web
+Práctica 3: Configuración Básica de Pipeline CI/CD (Electiva 1)
 
 Aplicación web simple con pipeline CI/CD automatizado.
 
